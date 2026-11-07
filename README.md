@@ -11,6 +11,12 @@ O Kairoz Media Studio reúne biblioteca, enquadramento e exportação em lote pa
 - **Exportar criativos.** Prepare versões em 9:16, 4:5, 1:1 e 16:9 e baixe cada arquivo ou o lote em ZIP.
 - **Importar pelo Chrome.** A extensão opcional pode enviar mídias compatíveis do Instagram para sua biblioteca.
 
+## Veja o fluxo
+
+A página de apresentação mostra capturas reais do estúdio e dois vídeos curtos. Um acompanha a preparação de um lote com arquivos fictícios. O outro mostra a seleção de uma imagem no Instagram e o envio pela extensão do Chrome para o estúdio local.
+
+[Ver a página do Kairoz](https://kairoz-media-studio-site.vercel.app/)
+
 ## Quer conhecer o estúdio?
 
 Conte quais campanhas você produz e quais formatos usa. Podemos conversar sobre seu fluxo e sobre o acesso à aplicação.
